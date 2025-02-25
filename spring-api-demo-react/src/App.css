@@ -78,7 +78,6 @@ img {
   margin-bottom: 20px; /* Spacing below the text container */
 }
 
-
 /*----------------------------------------*/
 h1 {
   font-size: 24px;
@@ -118,7 +117,7 @@ h1 {
   color: black;
 }
 
-.transcription-result h2{
+.transcription-result h2 {
   font-size: 20px;
   margin-bottom: 10px;
   color: darkblue;
@@ -128,5 +127,5 @@ h1 {
   background-color: #f8f9fa;
   padding: 15px;
   border-radius: 5px;
-  border: 1px solid #ddd
+  border: 1px solid #ddd;
 }
